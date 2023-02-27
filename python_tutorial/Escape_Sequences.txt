@@ -1,0 +1,6 @@
+\' single quote
+\" double quote
+\\ backslash
+\n new line
+\t tab
+\b backspace
